@@ -140,3 +140,4 @@ vite.config.ts.timestamp-*
 
 # Hydrogen/Remix Build Output
 /build
+.shopify
